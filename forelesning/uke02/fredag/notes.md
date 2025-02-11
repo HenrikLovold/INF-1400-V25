@@ -1,0 +1,5 @@
+- Skille mellom grensesnitt og implementasjon
+- Operator overloading / Magic methods / Dunder methods
+- Multiple inheritance
+- Modelling OOP systems
+- Arv vs. komposisjon
