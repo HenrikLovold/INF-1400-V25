@@ -7,10 +7,12 @@
 - Rebase
 - git stash
 
+
 # When to OOP
 
 - Alt må ikke være en klasse...
 - Zen of python
+
 
 # Errors
 
