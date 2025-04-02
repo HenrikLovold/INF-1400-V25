@@ -23,10 +23,10 @@ Om endringer i planen skulle forekomme vil det gå ut beskjed på Canvas og Disc
 |  13            |   -    | Digital fellesundervisning | 9 tirsdag |
 |  14            |   18-21    | Oppsummering og praktiske eksempler (forelesn. 5-10) | 10 tirsdag |
 |  15            |   -    | Fellesundervisning på nett | 11 tirsdag |
-|  16            |   21    | Utlevering oblig 3, testing av OOP-programmer | 12 tirsdag |
-|  17            |   10    | Context Managers, IO | 12 fredag |
+|  16            |   21    | Forelesning avlyst | 12 tirsdag |
+|  17            |   10    | Presentasjon oblig 3, Context Managers, IO | 12 fredag |
 |  -            |   -    | Fellesundervisning på nett | 13 tirsdag |
-|  18            |   19,20    | Design patterns og iterator pattern | 14 tirsdag |
+|  18            |   19,20    | Gjennomgang av konteeksamen V24, se Canvas-melding for oppgave | 14 tirsdag |
 |  19            |   -    | Oppsummering og praktiske eksempler (tema fra forelesn. 13-16) | 15 tirsdag |
 |  20            |   -    | Påskeferie uke 16 | - |
 |  -            |   -    | Ingen undervisning uke 17, frister for andreforsøk, oblig-oppsamling etc.  | - |
