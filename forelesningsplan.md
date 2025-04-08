@@ -28,7 +28,7 @@ Om endringer i planen skulle forekomme vil det gå ut beskjed på Canvas og Disc
 |  -            |   -    | Fellesundervisning på nett | 13 tirsdag |
 |  18            |   19,20    | Gjennomgang av konteeksamen V24, se Canvas-melding for oppgave | 14 tirsdag |
 |  19            |        | Litt om patterns | 14 fredag |
-|  20            |   -    | Oppsummering og praktiske eksempler (tema fra forelesn. 13-16) | 15 tirsdag |
+|  20            |   -    | Digitalt seminar, hjelp & tips | 15 tirsdag |
 |  21            |   -    | Påskeferie uke 16 | - |
 |  -            |   -    | Ingen undervisning uke 17, frister for andreforsøk, oblig-oppsamling etc.  | - |
 |  22            |   -    | Exam prep  | 18 tirsdag |
